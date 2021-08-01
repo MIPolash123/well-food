@@ -25,9 +25,9 @@ P{
     margin-top: 50PX;
     background-image: url("images/shapes/Group\ 8448.png");
 }
-.top-banner{
- background-image: url("images/top-banner.png");
- background-repeat: no-repeat;
+.first-banner{
+
+ 
  }
 section{
     height: 500px;
@@ -41,10 +41,10 @@ section{
     font-weight: 700;
     }
     
-.Dream-area{
-        background-image: url("images/dream-bg.png");
+.main-area{
+        background-image: url("images/shapes/Frame\ 59.jpg");
         background-repeat: no-repeat;
-        background-position: right;
+        background-position: center;
     }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
