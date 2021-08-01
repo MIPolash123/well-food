@@ -22,6 +22,8 @@ P{
 }
 .half-width img{
     width: 80%;
+    padding-top: 50PX;
+    background-image: url("images/shapes/Group\ 8448.png");
 }
 .top-banner{
  background-image: url("images/top-banner.png");
