@@ -21,8 +21,7 @@ P{
     padding-left: 2%;
 }
 .half-width img{
-    width: 80%;
-    margin-top: 50PX;
+    width: 100%;
     background-image: url("images/shapes/Group\ 8448.png");
 }
 
