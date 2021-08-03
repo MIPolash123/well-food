@@ -40,8 +40,8 @@ section{
 .main-area{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
-        background-position: center;
-    }
+        background-position: center;      
+
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
