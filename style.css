@@ -54,7 +54,7 @@ section{
     background-repeat: no-repeat;
     background-position:left;
 }
-.Third-width{
+.third-width{
     height: 250px;
     width: 100px;
     float: left; 
@@ -66,7 +66,7 @@ section{
    border-image:linear-gradient(180deg,lightsalmon,tomato);   
    border-image-slice: 1;
 }
-#Second-stack{
+#second-stack{
    border-left: 7px solid;
    border-image:linear-gradient(180deg,lightsalmon,tomato);   
    border-image-slice: 1;
