@@ -81,6 +81,11 @@ section{
     border-image-slice: 1;
     background-image: url(images/food/Project\ Cover1.jpg);
 }
+.third-width img{
+    width:30%;
+    padding: 6px;
+    padding-: 20px;
+}
 footer p{
     text-align: center;
     font-size: 13px;
