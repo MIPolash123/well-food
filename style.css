@@ -41,7 +41,7 @@ section{
 .main-area{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
-        background-position: center;   
+        background-position: left;   
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
@@ -84,7 +84,7 @@ section{
 .third-width img{
     width:30%;
     padding: 6px;
-    padding-: 20px;
+    padding-bottom: 70px;
 }
 footer p{
     text-align: center;
