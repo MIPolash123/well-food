@@ -81,9 +81,9 @@ section{
     border-image-slice: 1;
     background-image: url(images/food/Project\ Cover1.jpg);
 }
-.third-width img{
+.single-experience img{
     width:30%;
-    padding: 6px;
+    padding: 4px;
     padding-bottom: 70px;
 }
 footer p{
