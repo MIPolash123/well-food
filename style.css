@@ -83,11 +83,7 @@ P{
     border-image-slice: 1;
     background-image: url(images/food/Project\ Cover1.jpg);
 }
-.third-width img{
-    width:30%;
-    margin: 6px;
-    margin-bottom: 70px;
-}
+
 footer p{
     text-align: center;
     font-size: 13px;
