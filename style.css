@@ -55,7 +55,7 @@ P{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position:left;
-    text-align: bottom;
+   
 }
 .third-width{
     height: 600px;
@@ -63,6 +63,7 @@ P{
     float: left; 
     margin-left: 4%;
     padding-left: 2%;
+    text-align:end;
 }
 #full-stack{
    border-left: 7px solid;
