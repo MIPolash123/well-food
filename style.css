@@ -67,7 +67,7 @@ P{
    border-left: 7px solid;
    border-image:linear-gradient(180deg,lightsalmon,tomato);   
    border-image-slice: 1;
-   background-image: url(images/food/Project\ Cover.png-1.png);
+   
 }
 #second-stack{
    border-left: 7px solid;
@@ -81,7 +81,7 @@ P{
     border-left: 7px solid;
     border-image:linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
-    background-image: url(images/food/Project\ Cover5.png-1.png);
+   
 }
 
 footer p{
