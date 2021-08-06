@@ -55,6 +55,7 @@ P{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position:left;
+    text-align: end;
 }
 .third-width{
     height: 600px;
