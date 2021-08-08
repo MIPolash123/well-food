@@ -68,8 +68,9 @@ P{
     margin: 4%;
     text-align:center;
     text-justify: auto;
-    padding-bottom: 6%;
     padding-top: 2%;
+    padding-bottom: 4%;
+
 }
 #full-stack{
    border-left: 7px solid;
