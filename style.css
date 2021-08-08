@@ -54,7 +54,7 @@ P{
 .Experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position:right;
+    background-position:left;
    
 }
 .third-width{
@@ -63,7 +63,7 @@ P{
     float: left; 
     margin-left: 4%;
     padding-left: 2%;
-    text-align:end;
+    text-align:left;
 }
 #full-stack{
    border-left: 7px solid;
