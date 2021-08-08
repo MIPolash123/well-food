@@ -62,14 +62,14 @@ P{
 .my-recipies
 
 .third-width{
-    height: 450px;
+    height: 500px;
     width: 350px;
     float: left; 
     margin: 4%;
     text-align:center;
     text-justify: auto;
-    padding-bottom: 2%;
-    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-top: 2%;
 }
 #full-stack{
    border-left: 7px solid;
