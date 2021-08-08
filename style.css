@@ -69,7 +69,7 @@ P{
     text-align:center;
     text-justify: auto;
     padding-top: 2%;
-    padding-bottom: 6%;
+    padding-bottom: 4%;
 
 }
 #full-stack{
@@ -87,6 +87,9 @@ P{
     border-left: 7px solid;
     border-image:linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
+}
+.fourth-width{
+    padding-top: 4%;
 }
 
 footer p{
