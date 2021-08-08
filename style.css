@@ -66,9 +66,9 @@ P{
     width: 300px;
     float: left; 
     margin: 4%;
-    padding: 2%;
     text-align:center;
     text-justify: auto;
+    padding-bottom: 6%;
 }
 #full-stack{
    border-left: 7px solid;
