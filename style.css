@@ -63,7 +63,8 @@ P{
     float: left; 
     margin-left: 4%;
     padding-left: 2%;
-    text-align:left;
+    text-align:center;
+    text-justify: auto;
 }
 #full-stack{
    border-left: 7px solid;
