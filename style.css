@@ -57,11 +57,15 @@ P{
     background-position:left;
    
 }
+
+
+.My-recipies
+
 .third-width{
     height: 600px;
     width: 340px;
     float: left; 
-    margin: 2%;
+    margin: 4%;
     padding: 2%;
     text-align:center;
     text-justify: auto;
@@ -70,21 +74,17 @@ P{
    border-left: 7px solid;
    border-image:linear-gradient(180deg,lightsalmon,tomato);   
    border-image-slice: 1;
-   
 }
 #second-stack{
    border-left: 7px solid;
-   border-image:linear-gradient(180deg,lightsalmon,tomato);   
+   border-image:linear-gradient(180deg,lightsalmon,gray);   
    border-image-slice: 1;
-  
-
 }
 
 #baby-web{
     border-left: 7px solid;
     border-image:linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
-   
 }
 
 footer p{
