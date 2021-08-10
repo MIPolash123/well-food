@@ -42,8 +42,8 @@ P{
 .main-area{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
-        background-position: right; 
-        height: 350px;  
+        background-position: center; 
+        
 }
 
 .single-experience{
@@ -61,7 +61,7 @@ P{
 
 
 .third-width{
-    height: 500px;
+    height: 300px;
     width: 300px;
     float: center; 
     margin: 2%;
@@ -87,10 +87,10 @@ P{
 }
 
 .fourth-width{
-    height: 250px;
-    width: 900px;
+    height: 300px;
+    width: 1000px;
     float: center; 
-    margin: 4%;
+    margin: 6%;
     text-align:center;
     text-justify: auto;
     padding: 2%;
