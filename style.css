@@ -5,7 +5,7 @@ body{
 }
 section{
     height: 650px;
-    padding-bottom : 160px;
+    padding-bottom : 60px;
 }
 
 h1{font-size:50px;
@@ -88,7 +88,7 @@ P{
 
 .fourth-width{
     height: 300px;
-    width: 1000px;
+    width: 1200px;
     float: center; 
     margin: 6%;
     text-align:center;
