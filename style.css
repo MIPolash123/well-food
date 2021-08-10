@@ -87,17 +87,18 @@ P{
 }
 
 .fourth-width{
-    height: 300px;
-    width: 950px;
+    height: 250px;
+    width: 1250px;
     float: left; 
     margin: 4%;
     text-align:center;
     padding: 2%;
+    background-color: aliceblue;
 }
 
 #big-web{
-    border-left: 7px solid;
-    border-image:linear-gradient(180deg,blue,cyan);
+    border: 7px solid;
+    border-image:linear-gradient(180deg,blue,cyan,orange);
     border-image-slice: 1;
 }
 
