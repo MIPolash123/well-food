@@ -43,6 +43,7 @@ P{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
         background-position: center; 
+        height: 550px;
         
 }
 
@@ -61,7 +62,7 @@ P{
 
 
 .third-width{
-    height: 300px;
+    height: 600px;
     width: 300px;
     float: center; 
     margin: 2%;
@@ -88,8 +89,8 @@ P{
 
 .fourth-width{
     height: 300px;
-    width: 1200px;
-    float: center; 
+    width: 1250px;
+    float: left; 
     margin: 6%;
     text-align:center;
     text-justify: auto;
