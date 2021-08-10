@@ -40,32 +40,28 @@ P{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
         background-position: center; 
-        height: 700px;
-        
+      
 }
 .main-area img{
     width: 50%;
     padding-top: 10px;
 }
 
+.my recipy
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
-    height: 300%;
+    height: 500px;
+    width: 300px;
     background-color: white;
-}   
-.Experience-area{
-    background-image: url(images/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position:left;
-   
-}
+ }   
+
 
 
 .third-width{
     height: 450px;
     width: 200px;
-    float: center; 
+    float: left; 
     margin: 2%;
     text-align:center;
     text-justify: auto;
@@ -91,7 +87,7 @@ P{
 .fourth-width{
     height: 350px;
     width: 1000px;
-    float: center; 
+    float: left; 
     margin: 4%;
     text-align:center;
     text-justify: auto;
