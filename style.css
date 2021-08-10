@@ -45,9 +45,12 @@ P{
         background-repeat: no-repeat;
         background-position: right;   
 }
+.main-area img{
+    width: 60%;
+}
 .single-experience{
     box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    border-radius: 10px;
     height: 500%;
     background-color: white;
 }   
@@ -88,8 +91,8 @@ P{
 }
 
 .fourth-width{
-    height: 400px;
-    width: 1200px;
+    height: 350px;
+    width: 1000px;
     float: left; 
     margin: 4%;
     text-align:center;
