@@ -63,7 +63,7 @@ P{
 
 .third-width{
     height: 500px;
-    width: 325px;
+    width: 300px;
     float: left; 
     margin: 4%;
     text-align:center;
@@ -87,17 +87,19 @@ P{
 }
 
 .fourth-width{
-    height: 250px;
+    height: 275px;
     width: 1250px;
     float: left; 
     margin: 4%;
     text-align:center;
+    text-justify: auto;
     padding: 2%;
     background-color: aliceblue;
 }
 
 .fourth-width img{
-    width: 30%;
+    width: 10%;
+    
 }
 
 #big-web{
