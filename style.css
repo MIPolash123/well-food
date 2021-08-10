@@ -87,7 +87,7 @@ P{
 }
 
 .fourth-width{
-    height: 275px;
+    height: 400px;
     width: 1250px;
     float: left; 
     margin: 4%;
@@ -99,6 +99,7 @@ P{
 
 .fourth-width img{
     width: 10%;
+    padding-bottom: 2%;
     
 }
 
