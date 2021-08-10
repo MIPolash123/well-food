@@ -26,8 +26,8 @@ P{
     padding-left: 2%;
 }
 .main-area img{
-    width: 60%;
-    padding-top: 30px;
+    width: 050%;
+    padding-top: 20px;
 }
 
 .link-button{
@@ -43,14 +43,14 @@ P{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
         background-position: center; 
-        height: 550px;
+        height: 600px;
         
 }
 
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-    height: 575%;
+    height: 500%;
     background-color: white;
 }   
 .Experience-area{
@@ -62,7 +62,7 @@ P{
 
 
 .third-width{
-    height: 600px;
+    height: 550px;
     width: 300px;
     float: center; 
     margin: 2%;
