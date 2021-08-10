@@ -86,6 +86,20 @@ P{
     border-image-slice: 1;
 }
 
+.fourth-width{
+    height: 300px;
+    width: 950px;
+    float: left; 
+    margin: 4%;
+    text-align:center;
+    padding: 2%;
+}
+
+#big-web{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
 
 footer p{
     text-align: center;
