@@ -4,7 +4,7 @@ body{
     font-family:'poppins',sans-serif;
 }
 section{
-    height: 850px;
+    height: 750px;
     padding-bottom : 160px;
 }
 
@@ -43,7 +43,7 @@ P{
 .main-area{
         background-image: url("images/shapes/Frame\ 58.jpg");
         background-repeat: no-repeat;
-        background-position: left;   
+        background-position: right;   
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
@@ -65,8 +65,9 @@ P{
     height: 500px;
     width: 300px;
     float: left; 
-    margin: 4%;
+    margin: 2%;
     text-align:center;
+    text-justify: auto;
     padding: 2%;
 }    
 #full-stack{
@@ -88,7 +89,7 @@ P{
 
 .fourth-width{
     height: 400px;
-    width: 1250px;
+    width: 1200px;
     float: left; 
     margin: 4%;
     text-align:center;
@@ -98,8 +99,9 @@ P{
 }
 
 .fourth-width img{
-    width: 10%;
+    width: 20%;
     padding-bottom: 2%;
+    margin: 4%;
     
 }
 
