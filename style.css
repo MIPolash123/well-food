@@ -6,7 +6,7 @@ body{
 section{
     height: 550px;
     padding-bottom :150px;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 h1{font-size:50px;
@@ -94,7 +94,7 @@ P{
 
 .fourth-width{
     height: 350px;
-    width: 1200px;
+    width: 1000px;
     float: left; 
     margin: 8%;
     text-align:center;
@@ -104,9 +104,9 @@ P{
 }
 
 .fourth-width img{
-    width: 30%;
+    width: 25%;
     padding-bottom: 2%;
-    margin: 4%;
+    margin: 2%;
     
 }
 
@@ -118,7 +118,6 @@ P{
 
 .footer{
     height: 250px;
-    width: auto;
     float: left; 
     margin: 4%;
     text-align:center;
