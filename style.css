@@ -42,9 +42,11 @@ P{
     }
     
 .main-area{
-        background-image: url("images/shapes/Frame\ 58.jpg");
-        background-repeat: no-repeat;
-        background-position: center; 
+    background-image: url("images/shapes/Frame\ 58.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    text-align: center;
+    text-justify: auto;
       
 }
 .main-area img{
@@ -116,7 +118,7 @@ P{
     border-image-slice: 1;
 }
 
-.footer{
+footer{
     height: 200px;
     width: 1300px;
     float: left; 
