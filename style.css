@@ -25,13 +25,17 @@ P{
     margin-left: 4%;
     padding-left: 2%;
 }
+.half-width img{
+    width:80%;
+
+}
 
 
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg,lightsalmon,tomato);
-    padding:10px 20px;
-    border-radius: 5px;
+    padding:10px 30px;
+    border-radius: 10px;
     color: white;
     font-weight: 700;
     }
@@ -43,8 +47,8 @@ P{
       
 }
 .main-area img{
-    width: 50%;
-    padding-top: 10px;
+    width: 70%;
+    padding-top: 20px;
 }
 
 
